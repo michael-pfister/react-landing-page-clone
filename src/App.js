@@ -497,7 +497,7 @@ function App() {
             <li>
               <a href="./">Support</a>
             </li>
-            <div></div>
+            <div />
             <li>
               <a href="./">Wallet</a>
             </li>
